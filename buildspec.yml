@@ -6,7 +6,7 @@ env:
     AWS_DEFAULT_REGION: "us-east-1"
     IMAGE_REPO_NAME: "dev"
     IMAGE_TAG: "latest"
-    CONTAINER_NAME: "webapp"
+    CONTAINER_NAME: "webapp0"
     
 phases:
   pre_build:
