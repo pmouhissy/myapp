@@ -1,2 +1,2 @@
-FROM httpd:latest
+FROM public.ecr.aws/httpd/httpd:latest
 COPY .  /usr/local/apache2/htdocs/
